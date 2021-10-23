@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohd Gous
 - 🌱 I’m currently learning Javascript frameworks
-- 📫 How to reach me mgous4mean@gmail.com
+- 📫 You can reach me : mgous4mean@gmail.com
 
 <!---
 mgous4mean/mgous4mean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
